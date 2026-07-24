@@ -19,11 +19,22 @@
         Toy toy1 = new Toy();
         toy1.name = "Rare Pink";
         toy1.brand = "Hironi";
-        toy1.price = 150;
+        toy1.price = 1500;
         toy1.quality = 15;
         toy1.setPrice((toy1.price*0.5));
         System.out.println(toy1.price);
 
     
     }
+}
+class Fruit {
+
+}
+
+ class Fruit2{
+
+    
+}
+class Fruit3{
+
 }
