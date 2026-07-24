@@ -1,9 +1,12 @@
 
 public class Main{
-    public static void main(String [] args){
-        System.out.println("Hello Java");
-
-
+   public static void main(String[] args) {
+        Toy toy1 = new Toy();
+        toy1.name = "Rare Pink";
+        toy1.brand = "Hironi";
+        toy1.price = 1500;
+        toy1.quality = 15;
     }
     }
+    
 
